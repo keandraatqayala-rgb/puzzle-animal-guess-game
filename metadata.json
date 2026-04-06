@@ -1,0 +1,5 @@
+{
+  "name": "Guess the Animal",
+  "description": "A fast-paced animal guessing game where blocks reveal an image over time.",
+  "requestFramePermissions": []
+}
